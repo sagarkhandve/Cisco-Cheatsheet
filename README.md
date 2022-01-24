@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
 # CCNA - Cheat Sheet.
 
 #### Table of Contents

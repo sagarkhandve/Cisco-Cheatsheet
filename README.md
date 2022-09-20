@@ -1,5 +1,3 @@
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section") [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagarkhandve%2Fccna-cheet-sheet.git&count_bg=%2308DD09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ## CCNA - Cheatsheet.
 
 #### Table of Contents
@@ -1003,3 +1001,6 @@ Here I'll collect crazy default behaviors and how to fix them, I guess..
 | # ssh -l h.acker 1.2.3.4         | SSH to `1.2.3.4` using `h.acker` user         |
 | (config-if)# duplex {full, auto} | Set duplex mode or set it to autonegotiation. |
 | (config-if)# speed {100, auto}   | Set speed or set it to autonegotiation.       |
+
+## 
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")

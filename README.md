@@ -1,4 +1,4 @@
-## CCNA - Cheatsheet.
+## Cisco - Cheatsheet.
 
 #### Table of Contents
 
@@ -1003,4 +1003,4 @@ Here I'll collect crazy default behaviors and how to fix them, I guess..
 | (config-if)# speed {100, auto}   | Set speed or set it to autonegotiation.       |
 
 ## 
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+[![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square&logo)](#license "Go to license section")
